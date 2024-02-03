@@ -1,6 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nikky.brochat">
     <application
-        android:label="brochat"
+        android:label="bro_chat"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
